@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Requests This Year to Time Off Requests Nav">c3f1e69e369911100b84dec759cf22e1</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label/>
+        <location>chart_screen_header</location>
+        <name/>
+        <order/>
+        <parent>03f1e69e90991110f0862bc418bc2ae1</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:11</sys_created_on>
+        <sys_id>03f1e69e2199111017bb08a484e4ace2</sys_id>
+        <sys_name/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_button_instance_03f1e69e2199111017bb08a484e4ace2</sys_update_name>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=03f1e69e2199111017bb08a484e4ace2"/>
+</record_update>

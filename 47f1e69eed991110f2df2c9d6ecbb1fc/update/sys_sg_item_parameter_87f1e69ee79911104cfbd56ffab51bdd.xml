@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Reject reason</name>
+        <parent>c7f1e69ea99911109b5216bcfea6c3e0</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:53</sys_created_on>
+        <sys_id>87f1e69ee79911104cfbd56ffab51bdd</sys_id>
+        <sys_name>Reject reason</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_87f1e69ee79911104cfbd56ffab51bdd</sys_update_name>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

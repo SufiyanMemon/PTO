@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Create time request">4bf1e69e93991110960b6d89442cb2dd</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="icon-Plus-Solid">cff1e69e2a99111099f7399c31c86ee1</icon>
+        <label>Request time off</label>
+        <location>quick_action</location>
+        <name>Request time off</name>
+        <order/>
+        <parent>83f1e69e6c9911100e0837364db8afdf</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:51</sys_created_on>
+        <sys_id>c3f1e69ed3991110b6d3f1a4cbc2cedf</sys_id>
+        <sys_name>Request time off</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_button_instance_c3f1e69ed3991110b6d3f1a4cbc2cedf</sys_update_name>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c3f1e69ed3991110b6d3f1a4cbc2cedf"/>
+</record_update>

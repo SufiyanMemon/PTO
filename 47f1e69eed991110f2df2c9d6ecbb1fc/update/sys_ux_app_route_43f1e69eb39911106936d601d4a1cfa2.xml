@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Paid Time Off workspace Config">83f1e69e949911105c8c8931a84f0feb</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Dashboard</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>dashboard</route_type>
+        <screen_type display_value="Dashboard">03f1e69e85991110921d67c539c11fa2</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:04</sys_created_on>
+        <sys_id>43f1e69eb39911106936d601d4a1cfa2</sys_id>
+        <sys_name>Dashboard</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_app_route_43f1e69eb39911106936d601d4a1cfa2</sys_update_name>
+    </sys_ux_app_route>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order/>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:07</sys_created_on>
+        <sys_id>cff1e69eef9911103afa8d550115cbea</sys_id>
+        <sys_name/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_cff1e69eef9911103afa8d550115cbea</sys_update_name>
+        <target>view_group_04</target>
+        <ui_rule display_value="Status is Draft">43f1e69e10991110aca3ededd6125bea</ui_rule>
+        <value>{"BackgroundColor": "FDF3AC"}</value>
+    </sys_sg_ui_rule_action>
+</record_update>

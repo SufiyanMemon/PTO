@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Paid Time Off">cff1e69e19991110e0a93ada588472aa</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Time Off Portal</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>true</override_menu_roles>
+        <query>/now/x_572127_paid_ti_0/portal/landing/home</query>
+        <report/>
+        <roles>x_572127_paid_ti_0.employee</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>87f1e69ef8991110317813cb15e2d9ae</sys_id>
+        <sys_name>Time Off Portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_app_module_87f1e69ef8991110317813cb15e2d9ae</sys_update_name>
+        <timeline_page/>
+        <title>Time Off Portal</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>Time off portal</window_name>
+    </sys_app_module>
+</record_update>

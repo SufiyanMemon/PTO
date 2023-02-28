@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Reject">07f1e69e3d99111023cae62a5aed7ddd</button>
+        <color_theme>destructive</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Decline</label>
+        <location>footer</location>
+        <name>Decline</name>
+        <order>10</order>
+        <parent>0ff1e69e329911101ddf6298b45068e1</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:57</sys_created_on>
+        <sys_id>8ff1e69e6d9911100df0b0d759397ee1</sys_id>
+        <sys_name>Decline</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_button_instance_8ff1e69e6d9911100df0b0d759397ee1</sys_update_name>
+        <table>x_572127_paid_ti_0_request</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=8ff1e69e6d9911100df0b0d759397ee1"/>
+</record_update>

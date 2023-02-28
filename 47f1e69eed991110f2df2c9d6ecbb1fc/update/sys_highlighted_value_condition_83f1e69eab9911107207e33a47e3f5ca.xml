@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition">
+    <sys_highlighted_value_condition action="INSERT_OR_UPDATE">
+        <color/>
+        <conditions table="x_572127_paid_ti_0_request">status=approved^EQ<item display_value="Approved" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="approved"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <highlighted_value display_value="status">43f1e69e10991110c6c3f0bd30377cca</highlighted_value>
+        <icon/>
+        <order>10</order>
+        <show_icon>true</show_icon>
+        <status>positive</status>
+        <sys_class_name>sys_highlighted_value_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:04</sys_created_on>
+        <sys_id>83f1e69eab9911107207e33a47e3f5ca</sys_id>
+        <sys_name/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_highlighted_value_condition_83f1e69eab9911107207e33a47e3f5ca</sys_update_name>
+        <value_override/>
+        <variant/>
+    </sys_highlighted_value_condition>
+</record_update>

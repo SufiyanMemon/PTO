@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="Cabin">8bf1e69e5c991110ec15198c04a175c0</asset>
+        <properties>{&#13;
+    "font-style":"normal",&#13;
+    "font-weight":"400"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>8ff1e69eae9911103ee3b769f91d2fc0</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_8ff1e69eae9911103ee3b769f91d2fc0</sys_update_name>
+        <theme display_value="Time off ws ">4ff1e69e8d991110af3b83819de2afeb</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

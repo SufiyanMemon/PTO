@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_572127_paid_ti_0.TimeOffDateValidation</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>TimeOffDateValidation</name>
+        <script><![CDATA[var TimeOffDateValidation = Class.create();
+TimeOffDateValidation.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	
+	startDate: function(){
+		var date = this.getParameter('sysparm_date');
+		var gdt = new GlideDateTime();
+		var today = gdt.getDate();
+		var gdt2 = new GlideDateTime(date);
+		var start = gdt2.getDate();
+		var answer = '';
+
+		if (start < today){
+			answer = true;
+		}
+		return answer;
+	},
+	
+	endDate: function(){
+		var end_date = this.getParameter('sysparm_end');
+		var start_date = this.getParameter('sysparm_start');
+		var answer = '';
+
+		if (end_date < start_date){
+			answer = true;
+		}
+		return answer;
+	},
+
+
+    type: 'TimeOffDateValidation'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:01</sys_created_on>
+        <sys_id>43f1e69e23991110f51d2bd7443475d9</sys_id>
+        <sys_name>TimeOffDateValidation</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_script_include_43f1e69e23991110f51d2bd7443475d9</sys_update_name>
+    </sys_script_include>
+</record_update>

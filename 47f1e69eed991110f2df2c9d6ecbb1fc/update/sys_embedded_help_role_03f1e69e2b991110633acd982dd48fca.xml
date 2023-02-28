@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_572127_paid_ti_0.admin" name="x_572127_paid_ti_0.admin">47f1e69e4199111011788c6d9aaac88f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:08</sys_created_on>
+        <sys_id>03f1e69e2b991110633acd982dd48fca</sys_id>
+        <sys_name>47f1e69e4199111011788c6d9aaac88f</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_embedded_help_role_03f1e69e2b991110633acd982dd48fca</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

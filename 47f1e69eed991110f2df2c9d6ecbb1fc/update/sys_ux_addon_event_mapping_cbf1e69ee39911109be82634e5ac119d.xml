@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>New Event Mapping</name>
+        <parent_macroponent display_value="Home">07f1e69ea8991110a51f45984499d29d</parent_macroponent>
+        <source_component/>
+        <source_da display_value="to_navigation">0ff1e69e7e99111018821b9b8ed67dc4</source_da>
+        <source_element_id>data_set_2</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>cbf1e69ee39911109be82634e5ac119d</sys_id>
+        <sys_name>New Event Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_cbf1e69ee39911109be82634e5ac119d</sys_update_name>
+        <target_event display_value="Data Set Item Clicked">47f1e69e159911100ebd433d32fe809d</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    },
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

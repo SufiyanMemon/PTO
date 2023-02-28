@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Time Off request">cbf1e69ef6991110b0ed533774cec5b6</category>
+        <columns>number,sys_created_on,requested_by,requested_by.department,requested_by.manager,date_submitted,status,active,times_submitted,start_date,end_date,time_off_reason,rejection_reason,comments,work_notes</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>03f1e69e10991110702d1ca2171fcab6</sys_id>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_aw_list_03f1e69e10991110702d1ca2171fcab6</sys_update_name>
+        <table>x_572127_paid_ti_0_request</table>
+        <title>All</title>
+        <user/>
+        <workspace display_value="Time Off Request WS">47f1e69eaa991110cf7055a8150d94b5</workspace>
+    </sys_aw_list>
+</record_update>

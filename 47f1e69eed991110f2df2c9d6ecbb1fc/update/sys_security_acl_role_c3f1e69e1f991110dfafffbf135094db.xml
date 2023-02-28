@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:57</sys_created_on>
+        <sys_id>c3f1e69e1f991110dfafffbf135094db</sys_id>
+        <sys_name/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_security_acl display_value="x_572127_paid_ti_0_request">03f1e69e8b9911108caee5a9549deeda</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c3f1e69e1f991110dfafffbf135094db</sys_update_name>
+        <sys_user_role display_value="x_572127_paid_ti_0.employee" name="x_572127_paid_ti_0.employee">83f1e69e989911100d797cd9ec4f56d8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

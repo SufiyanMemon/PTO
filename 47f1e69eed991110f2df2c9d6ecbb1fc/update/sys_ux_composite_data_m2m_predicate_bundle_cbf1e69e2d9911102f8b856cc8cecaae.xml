@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Time Off - Recent Requests">8ff1e69eda9911102483482c2aa6e9ad</dataset>
+        <order>10</order>
+        <predicate_bundle display_value="to_recent_bundle">0ff1e69e5b9911100f3016b6b9081eae</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:53</sys_created_on>
+        <sys_id>cbf1e69e2d9911102f8b856cc8cecaae</sys_id>
+        <sys_name/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_cbf1e69e2d9911102f8b856cc8cecaae</sys_update_name>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

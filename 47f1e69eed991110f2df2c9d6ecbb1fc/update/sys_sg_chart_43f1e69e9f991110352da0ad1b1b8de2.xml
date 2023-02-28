@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Time Off Request (Donut) Navigation">43f1e69eb8991110e23de97de85ca6e1</jump_to_screen>
+        <name>Requests This Year</name>
+        <report display_value="Time Off Requests">83f1e69e1a991110205a4980bc377ad7</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:09</sys_created_on>
+        <sys_id>43f1e69e9f991110352da0ad1b1b8de2</sys_id>
+        <sys_name>Requests This Year</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_chart_43f1e69e9f991110352da0ad1b1b8de2</sys_update_name>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

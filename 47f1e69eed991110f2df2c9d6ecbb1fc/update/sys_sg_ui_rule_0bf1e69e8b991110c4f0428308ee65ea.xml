@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule">
+    <sys_sg_ui_rule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition>text_01=requested</condition>
+        <name>Status is Requested</name>
+        <order/>
+        <parent_id>c3f1e69e099911109aa5f877d06ed9e3</parent_id>
+        <parent_table>sys_sg_view_config</parent_table>
+        <reverse_if_false>false</reverse_if_false>
+        <sys_class_name>sys_sg_ui_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:12</sys_created_on>
+        <sys_id>0bf1e69e8b991110c4f0428308ee65ea</sys_id>
+        <sys_name>Status is Requested</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_0bf1e69e8b991110c4f0428308ee65ea</sys_update_name>
+        <trigger>fd680bd85b431010da168d8fa881c7c8</trigger>
+    </sys_sg_ui_rule>
+</record_update>

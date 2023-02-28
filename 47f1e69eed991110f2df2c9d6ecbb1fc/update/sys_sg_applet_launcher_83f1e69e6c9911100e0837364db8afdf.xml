@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button display_value="Jump Logged In User Profile">b4bafa0687103300a785940307cb0b3a</header_button>
+        <header_titles>07f1e69e3c9911103e111af1e42e6adf</header_titles>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Time Off</name>
+        <required_roles>x_572127_paid_ti_0.employee,x_572127_paid_ti_0.admin,x_572127_paid_ti_0.manager</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:00</sys_created_on>
+        <sys_id>83f1e69e6c9911100e0837364db8afdf</sys_id>
+        <sys_name>Time Off</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_83f1e69e6c9911100e0837364db8afdf</sys_update_name>
+        <title>Time Off</title>
+    </sys_sg_applet_launcher>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action_layout_item">
+    <sys_ux_form_action_layout_item action="INSERT_OR_UPDATE">
+        <action display_value="Decline">03f1e69e579911101e14f889f3852fb5</action>
+        <active>true</active>
+        <color/>
+        <description/>
+        <item_type>action</item_type>
+        <label>Decline</label>
+        <layout_group/>
+        <name>decline</name>
+        <order>0</order>
+        <overflow>false</overflow>
+        <sys_class_name>sys_ux_form_action_layout_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:11</sys_created_on>
+        <sys_id>c7f1e69ead9911109fd0d1f3a09a78b5</sys_id>
+        <sys_name>Decline</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_form_action_layout_item_c7f1e69ead9911109fd0d1f3a09a78b5</sys_update_name>
+        <table>x_572127_paid_ti_0_request</table>
+    </sys_ux_form_action_layout_item>
+</record_update>

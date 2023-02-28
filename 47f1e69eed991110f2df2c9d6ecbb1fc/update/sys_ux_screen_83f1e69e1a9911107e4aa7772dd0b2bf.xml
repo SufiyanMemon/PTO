@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Paid Time Off workspace Config">83f1e69e949911105c8c8931a84f0feb</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="SHN Page">47f1e69e8b9911109ddb8c1807a7c0b9</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "confs" : "@data.get_special_handling_notes.output.data.GlideSHN_Query",
+  "table" : "@data.gform.nowRecordFormBlob.table",
+  "sysId" : "@data.gform.nowRecordFormBlob.sysId",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false,
+  "views" : "workspace",
+  "selectedTabIndex" : 0
+}</macroponent_config>
+        <name>SHN Page Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record">4bf1e69eea99111099852251e99c2aa3</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Special Handling Notes">43f1e69eb89911106a8b3e27f421d8a4</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>83f1e69e1a9911107e4aa7772dd0b2bf</sys_id>
+        <sys_name>SHN Page Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_screen_83f1e69e1a9911107e4aa7772dd0b2bf</sys_update_name>
+    </sys_ux_screen>
+</record_update>

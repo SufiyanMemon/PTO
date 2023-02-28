@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>x_572127_paid_ti_0.to.review</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript( /* GlideRecord */ current, /* TemplatePrinter */ template,
+    /* Optional EmailOutbound */
+    email, /* Optional GlideRecord */ email_action,
+    /* Optional GlideRecord */
+    event) {
+
+    var link = current.getLink();
+    template.print('<font face="tahoma">');
+
+    // 	var backgroundColor = 'background-color: #003059;';
+    var color = 'color: #ffffff;';
+    var fontSize = 'font-size: 12pt;';
+    // 	var fontFamily = 'font-family: Helvetica, Arial, sans-serif;';
+    var textDecoration = 'text-decoration: none;';
+    // 	var webKitBorder = '-webkit-border-radius: 0px;';
+    // 	var mozBorder = '-moz-border-radius: 0px;';
+    // 	var display = 'display: inline-block;';
+    // 	var padding = 'padding: 13px 65px;';
+
+
+	template.print('<a href="' + gs.getProperty('glide.servlet.uri') + 'now/x_572127_paid_ti_0/workspace/record/' + current.sys_class_name +'/'+ current.sys_id + '"');
+
+    template.print('style="' + color + fontSize + textDecoration);
+    template.print('">');
+    template.print(gs.getMessage('Review request'));
+    template.print('</a>');
+    template.print('</font>');
+
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:52</sys_created_on>
+        <sys_id>4bf1e69e099911109c4d4f69e237aed8</sys_id>
+        <sys_name>x_572127_paid_ti_0.to.review</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_script_email_4bf1e69e099911109c4d4f69e237aed8</sys_update_name>
+    </sys_script_email>
+</record_update>

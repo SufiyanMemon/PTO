@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_layout">
+    <sys_ux_applicability_m2m_layout action="INSERT_OR_UPDATE">
+        <action_layout display_value="Portal Actions">8bf1e69e479911109f464f473b598c9e</action_layout>
+        <active>true</active>
+        <applicability display_value="Time Off Employee">47f1e69e2e991110bbba9499e408709e</applicability>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_layout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:01</sys_created_on>
+        <sys_id>cbf1e69eed991110180ff54228c7c09e</sys_id>
+        <sys_name/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_layout_cbf1e69eed991110180ff54228c7c09e</sys_update_name>
+    </sys_ux_applicability_m2m_layout>
+</record_update>

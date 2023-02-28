@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Awaiting Approval Item Stream">8ff1e69ebd9911106c1b9574df9058e5</item_stream>
+        <master_item display_value="Awaiting Approval Main Item">0bf1e69e2299111065e71a162213f5e6</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:04</sys_created_on>
+        <sys_id>c7f1e69ef699111061ca5d82ebeecee6</sys_id>
+        <sys_name/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_c7f1e69ef699111061ca5d82ebeecee6</sys_update_name>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

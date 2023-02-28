@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Approved or Rejected">43f1e69e9e991110e4ebc8546fc2c8e5</item_parameter>
+        <screen display_value="Time Off Requests">cbf1e69e6c991110e5e0e93e05177fe0</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:59</sys_created_on>
+        <sys_id>03f1e69ea5991110a5ff1efb24255eea</sys_id>
+        <sys_name>43f1e69e9e991110e4ebc8546fc2c8e5</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_03f1e69ea5991110a5ff1efb24255eea</sys_update_name>
+        <ui_parameter display_value="URL">47f1e69e54991110844dee81b56e39e8</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

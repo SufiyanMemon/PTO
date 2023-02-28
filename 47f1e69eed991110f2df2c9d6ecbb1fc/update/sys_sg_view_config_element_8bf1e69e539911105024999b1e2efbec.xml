@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_06_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:59</sys_created_on>
+        <sys_id>8bf1e69e539911105024999b1e2efbec</sys_id>
+        <sys_name>text_06_element</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_8bf1e69e539911105024999b1e2efbec</sys_update_name>
+        <view_config display_value="Time Off View Config (Admin)">c3f1e69e099911109aa5f877d06ed9e3</view_config>
+        <view_template_slot display_value="text_06">cb878d7041275010f877183fc9b8be59</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

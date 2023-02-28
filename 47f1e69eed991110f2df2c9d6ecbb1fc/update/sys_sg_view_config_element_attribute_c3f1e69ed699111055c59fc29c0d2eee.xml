@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description>text_07_FieldValue</description>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:12</sys_created_on>
+        <sys_id>c3f1e69ed699111055c59fc29c0d2eee</sys_id>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_c3f1e69ed699111055c59fc29c0d2eee</sys_update_name>
+        <translated_value/>
+        <value>start_date</value>
+        <view_config_element display_value="text_07_element">03f1e69eae99111088f20cd1595489ed</view_config_element>
+    </sys_sg_view_config_element_attribute>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Time Off View Config (Admin)</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:09</sys_created_on>
+        <sys_id>c3f1e69e099911109aa5f877d06ed9e3</sys_id>
+        <sys_name>Time Off View Config (Admin)</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_view_config_c3f1e69e099911109aa5f877d06ed9e3</sys_update_name>
+        <table>x_572127_paid_ti_0_request</table>
+        <template display_value="Template 01">6bb0be5c41a71010f877183fc9b8be0c</template>
+    </sys_sg_view_config>
+</record_update>

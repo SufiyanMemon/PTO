@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Paid Time Off workspace Config">83f1e69e949911105c8c8931a84f0feb</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="404">c3f1e69e2899111007ac015c788503b8</macroponent>
+        <macroponent_config/>
+        <name>404 default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type/>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>07f1e69eb79911109ba070d8a60a0bef</sys_id>
+        <sys_name>404 default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_screen_07f1e69eb79911109ba070d8a60a0bef</sys_update_name>
+    </sys_ux_screen>
+</record_update>

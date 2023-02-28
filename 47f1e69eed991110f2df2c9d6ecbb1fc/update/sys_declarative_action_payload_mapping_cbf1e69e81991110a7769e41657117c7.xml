@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Record Open Modal">47f1e69ed1991110f48700cdb2175bc5</action_payload_definition>
+        <label>Record Open Modal Form</label>
+        <model display_value="Form">360935e9534723003eddddeeff7b127d</model>
+        <payload_map>route=custom_1^size=md^fields@table={{table}}^fields@sysId={{sysId}}^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:53</sys_created_on>
+        <sys_id>cbf1e69e81991110a7769e41657117c7</sys_id>
+        <sys_name>Record Open Modal Form</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_cbf1e69e81991110a7769e41657117c7</sys_update_name>
+    </sys_declarative_action_payload_mapping>
+</record_update>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Create time request">4bf1e69e93991110960b6d89442cb2dd</button>
+        <item_parameter display_value="Request end_date">8bf1e69e349911107e96a25dd157c8dd</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:03</sys_created_on>
+        <sys_id>cbf1e69ef1991110d33d80c8db0475dd</sys_id>
+        <sys_name>8bf1e69e349911107e96a25dd157c8dd</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_cbf1e69ef1991110d33d80c8db0475dd</sys_update_name>
+        <ui_parameter display_value="End date">0bf1e69ee0991110407b8cafd17458dd</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

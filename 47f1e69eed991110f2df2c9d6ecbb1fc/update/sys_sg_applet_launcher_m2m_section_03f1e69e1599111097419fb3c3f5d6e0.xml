@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Dashboard">47f1e69e1f99111015cf1cb63aaf4cdf</applet_launcher>
+        <order>10</order>
+        <section display_value="Awaiting Approval">cff1e69ef799111003df636543eb69df</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:50</sys_created_on>
+        <sys_id>03f1e69e1599111097419fb3c3f5d6e0</sys_id>
+        <sys_name/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_03f1e69e1599111097419fb3c3f5d6e0</sys_update_name>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

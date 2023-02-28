@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_action_assignment_action_config">
+    <sys_ux_m2m_action_assignment_action_config action="INSERT_OR_UPDATE">
+        <action_assignment display_value="Decline Modal">07f1e69e3a9911101c554a1415a58dc5</action_assignment>
+        <action_configuration display_value="Time Off Record Actions">07f1e69ee599111053a0a5a5150afa9c</action_configuration>
+        <sys_class_name>sys_ux_m2m_action_assignment_action_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:08</sys_created_on>
+        <sys_id>cff1e69eec991110609d2d18f34755b5</sys_id>
+        <sys_name/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_m2m_action_assignment_action_config_cff1e69eec991110609d2d18f34755b5</sys_update_name>
+    </sys_ux_m2m_action_assignment_action_config>
+</record_update>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Time Off">83f1e69e6c9911100e0837364db8afdf</applet_launcher>
+        <order>20</order>
+        <section display_value="All Requests">c7f1e69e3b9911102f3d767870f252df</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:55</sys_created_on>
+        <sys_id>0bf1e69ebb991110b752562d43febadf</sys_id>
+        <sys_name/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_0bf1e69ebb991110b752562d43febadf</sys_update_name>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

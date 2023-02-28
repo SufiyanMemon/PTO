@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_572127_paid_ti_0_request">requested_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe^start_dateONThis year@javascript:gs.beginningOfThisYear()@javascript:gs.endOfThisYear()^EQ<item endquery="false" field="requested_by" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="start_date" goto="false" newquery="false" operator="ON" or="false" value="This year@javascript:gs.beginningOfThisYear()@javascript:gs.endOfThisYear()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>status,start_date,end_date,time_off_reason,rejection_reason</field_list>
+        <name>Time Off Config - All Requests</name>
+        <order>10</order>
+        <predicate_bundle display_value="to_all_bundle">8bf1e69ef5991110d0eb8c7c66c39aae</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:13</sys_created_on>
+        <sys_id>cff1e69e5799111005ede49f5f8f7fae</sys_id>
+        <sys_name>Time Off Config - All Requests</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_cff1e69e5799111005ede49f5f8f7fae</sys_update_name>
+        <table>x_572127_paid_ti_0_request</table>
+        <ux_template display_value="Time Off Template">8ff1e69e15991110844941da39668cae</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

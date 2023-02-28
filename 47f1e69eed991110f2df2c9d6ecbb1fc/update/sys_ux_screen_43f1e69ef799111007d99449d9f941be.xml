@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Paid Time Off workspace Config">83f1e69e949911105c8c8931a84f0feb</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="List Modal Page">0bf1e69e6d991110920e91d90608d5b8</macroponent>
+        <macroponent_config>{
+  "table" : "@context.props.table",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false,
+  "tinyId" : ""
+}</macroponent_config>
+        <name>List Modal Page Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="List">4bf1e69edb99111007df836fbe7d6ea5</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="List Modal Page">c7f1e69ed6991110c8fe8c08b2a3bba5</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>43f1e69ef799111007d99449d9f941be</sys_id>
+        <sys_name>List Modal Page Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_screen_43f1e69ef799111007d99449d9f941be</sys_update_name>
+    </sys_ux_screen>
+</record_update>

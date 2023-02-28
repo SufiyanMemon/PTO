@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_header_config">
+    <sys_ux_header_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Header Configuration for Time Off Workspace</description>
+        <name>Time Off</name>
+        <sys_class_name>sys_ux_header_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:47:11</sys_created_on>
+        <sys_id>4bf1e69edc991110771b7b41b23a59b5</sys_id>
+        <sys_name>Time Off</sys_name>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_header_config_4bf1e69edc991110771b7b41b23a59b5</sys_update_name>
+    </sys_ux_header_config>
+</record_update>

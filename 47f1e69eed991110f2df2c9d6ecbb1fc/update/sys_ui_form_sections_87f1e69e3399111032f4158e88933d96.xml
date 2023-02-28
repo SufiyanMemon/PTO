@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="87f1e69e3399111032f4158e88933d96" sys_domain="global" table="x_572127_paid_ti_0_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-16 06:46:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bf1e69e7e9911103bd6d03337da7296</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_572127_paid_ti_0_request" name="x_572127_paid_ti_0_request" sys_domain="global" view="c7f1e69e049911104e45a9374f98a996">87f1e69e3399111032f4158e88933d96</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_572127_paid_ti_0_request" sys_domain="global" view="c7f1e69e049911104e45a9374f98a996">4bf1e69e2899111082ba3845b1913e96</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-16 06:46:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-16 06:46:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8bf1e69e4d991110f4d396b01d939396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_572127_paid_ti_0_request" name="x_572127_paid_ti_0_request" sys_domain="global" view="c7f1e69e049911104e45a9374f98a996">87f1e69e3399111032f4158e88933d96</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_572127_paid_ti_0_request" sys_domain="global" view="c7f1e69e049911104e45a9374f98a996">cbf1e69e7799111092d424f2c06ca196</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-16 06:46:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_572127_paid_ti_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-16 06:46:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87f1e69e3399111032f4158e88933d96</sys_id>
+            <sys_name>x_572127_paid_ti_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_87f1e69e3399111032f4158e88933d96</sys_update_name>
+            <sys_user/>
+            <view display_value="Record (x_572127_paid_ti_0 )" name="record_x_572127_paid_ti_0">c7f1e69e049911104e45a9374f98a996</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

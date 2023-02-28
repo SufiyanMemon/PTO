@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Time Off Manager">4bf1e69ed09911103745b483f8252a9e</applicability>
+        <order>0</order>
+        <screen display_value="Manager">8ff1e69e66991110a2f822f4b6c36a90</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 06:46:49</sys_created_on>
+        <sys_id>03f1e69e569911100b01078dfe9741a0</sys_id>
+        <sys_name/>
+        <sys_package display_value="Paid Time Off" source="x_572127_paid_ti_0">47f1e69eed991110f2df2c9d6ecbb1fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Paid Time Off">47f1e69eed991110f2df2c9d6ecbb1fc</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_03f1e69e569911100b01078dfe9741a0</sys_update_name>
+    </sys_ux_applicability_m2m_screen>
+</record_update>
